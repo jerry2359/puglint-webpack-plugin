@@ -1,0 +1,38 @@
+{
+  "name": "puglint-webpack-plugin",
+  "version": "1.0.3",
+  "description": "A puglint plugin for webpack",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerry2359/puglint-webpack-plugin.git"
+  },
+  "keywords": [
+    "pug",
+    "lint",
+    "pug-lint",
+    "plugin",
+    "webpack",
+    "puglint",
+    "webpack-plugin",
+    "linter"
+  ],
+  "author": "jerry2359",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerry2359/puglint-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/jerry2359/puglint-webpack-plugin#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "crypto": "^1.0.1",
+    "glob": "^7.1.4",
+    "pug-lint": "^2.5.0"
+  }
+}
